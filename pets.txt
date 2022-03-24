@@ -3,10 +3,7 @@ Blue
 Rocket
 Chickes
 Flost
-<<<<<<< HEAD
 sdfsdfsd
 sdfsdfs
 wwtwrwes
-=======
 Robby
->>>>>>> c23a58599e4ebaf9583bbea17c39d2c3ffb19a2b
